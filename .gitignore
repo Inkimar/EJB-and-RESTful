@@ -4,3 +4,15 @@
 *.jar
 *.war
 *.ear
+
+# target directories #
+/Domain/target/
+/Domain/nbproject/private/
+/J2SE-Client/target/
+/J2SE-Client/nbproject/private/
+/MediaServerRestful/target/
+/MediaServerRestful/nbproject/private/
+/MediaserverApp-ejb/target
+/MediaserverApp-ejb/nbproject/private
+/MediaserverApp-web/target
+/MediaserverApp-web/nbproject/private
